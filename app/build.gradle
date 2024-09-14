@@ -5,7 +5,7 @@ android {
         release {
             keyAlias 'secrets.ALIAS'
             keyPassword 'secrets.KEY_PASSWORD'
-            signingKeyBase64 ('secrets.SIGNING_KEY')
+            storeFile file ('secrets.SIGNING_KEY')
             storePassword 'secrets.KEY_STORE_PASSWORD'
 
             v1SigningEnabled true
