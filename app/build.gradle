@@ -1,11 +1,11 @@
-apply plugin: 'com.android.application'
+aaapply plugin: 'com.android.application'
 
 android {
     signingConfigs {
         release {
             keyAlias 'secrets.ALIAS'
             keyPassword 'secrets.KEY_PASSWORD'
-            storeFile file ('secrets.SIGNING_KEY')
+            storeFile file ('keystore.jks')
             storePassword 'secrets.KEY_STORE_PASSWORD'
 
             v1SigningEnabled true
