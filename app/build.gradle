@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         release {
-            keyAlias 'key0'
-            keyPassword 'candybar'
-            storeFile file('candybar.jks')
-            storePassword 'candybar'
+            keyAlias 'secrets.ALIAS'
+            keyPassword 'secrets.KEY_PASSWORD'
+            signingKeyBase64 ('secrets.SIGNING_KEY')
+            storePassword 'secrets.KEY_STORE_PASSWORD'
 
             v1SigningEnabled true
             v2SigningEnabled true
