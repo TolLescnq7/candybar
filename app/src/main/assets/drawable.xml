@@ -3,7 +3,7 @@
     <version>1</version>
 
     <category title="All Apps" />
-    <item drawable="icon_1" />
+    <item drawable="Browser" />
     <item drawable="icon_2" />
     <item drawable="icon_3" />
     <item drawable="icon_4" />

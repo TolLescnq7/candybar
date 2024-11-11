@@ -57,60 +57,60 @@
         drawable="asphalt_9" />
 
     <!-- Browser -->
-    <item component="ComponentInfo{com.lenovo.intlmb/com.opera.Opera}" drawable="chrome" />
+    <item component="ComponentInfo{com.lenovo.intlmb/com.opera.Opera}" drawable="browser" />
     <item component="ComponentInfo{com.cyngn.browser/com.android.browser.BrowserLauncher}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.apn.mobile.browser.zte/com.apn.mobile.browser.MainActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserLauncher}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.ui.BrowserActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}"
-        drawable="chrome" />
+        drawable="browser" />
     <item
         component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}"
-        drawable="chrome" />
+        drawable="browser" />
     <item
         component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item
         component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item
         component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.MainActivity}"
-        drawable="chrome" />
-    <item component="ComponentInfo{com.android.browser/com.opera.Opera}" drawable="chrome" />
+        drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.opera.Opera}" drawable="browser" />
     <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.PermissionCheckActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}"
-        drawable="chrome" />
+        drawable="browser" />
     <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}"
-        drawable="chrome" />
+        drawable="browser" />
 
     <!-- BookMyShow -->
     <item
