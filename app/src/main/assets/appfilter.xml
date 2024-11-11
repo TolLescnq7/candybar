@@ -98,6 +98,9 @@
     <item
         component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}"
         drawable="browser" />
+    <item
+        component="ComponentInfo{mark.via.gp/mark.via.Shell}"
+        drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.MainActivity}"
         drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.opera.Opera}" drawable="browser" />
